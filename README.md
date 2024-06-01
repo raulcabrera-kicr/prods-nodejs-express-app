@@ -1,2 +1,2 @@
 # prods-nodejs-express-app
-NodeJS express Application
+Backend API de productos para Lenguajes de programación - UCN.
